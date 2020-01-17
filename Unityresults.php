@@ -3,7 +3,7 @@ include("connect.php");
 include("footer.php");
 ?>
 <!doctype html>
-<html lang="nl">
+<html lang="nl">adgss
      <style>
 
      </style>
