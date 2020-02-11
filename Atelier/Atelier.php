@@ -10,6 +10,6 @@
 </head>
 <body>
 <h1>test</h1>
-<p>ik heb corona</p>
+<p>ik heb coronakanker</p>
 </body>
 </html>
